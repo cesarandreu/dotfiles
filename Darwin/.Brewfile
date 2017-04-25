@@ -2,7 +2,7 @@
 tap 'caskroom/cask'
 tap 'caskroom/fonts'
 tap 'caskroom/versions'
-tap 'cesarandreu/asdf'
+# tap 'cesarandreu/asdf'
 tap 'homebrew/bundle'
 tap 'homebrew/core'
 tap 'homebrew/services'
