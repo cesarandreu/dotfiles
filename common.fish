@@ -18,4 +18,4 @@ set -xU LESSHISTFILE "$XDG_DATA_HOME/less/history"
 mkdir -p "$XDG_DATA_HOME/less"
 
 # Extra paths
-set -U fish_user_paths "$USER_BIN_HOME"
+set -U fish_user_paths "$USER_BIN_HOME" (brew --prefix asdf)"/libexec/shims"
