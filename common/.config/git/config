@@ -1,0 +1,10 @@
+[user]
+  name = Cesar Andreu
+  email = cesarandreu@gmail.com
+  signingkey = 36FC188B
+[commit]
+  gpgsign = true
+[credential]
+  helper = osxkeychain
+[push]
+  default = simple

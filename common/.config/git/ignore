@@ -1,0 +1,20 @@
+# Useful `.gitignore` templates
+# https://github.com/github/gitignore
+*~
+
+# macOS
+._*
+.AppleDouble
+.DS_Store
+.localized
+.LSOverride
+.Spotlight-V100
+.Trashes
+Icon
+
+# node and npm
+node_modules
+npm-debug.log
+
+# IntelliJ
+.idea
